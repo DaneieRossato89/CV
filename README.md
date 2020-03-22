@@ -1,2 +1,0 @@
-# CV
-Initial CV website
